@@ -13,7 +13,7 @@
     "@types/react-redux": "7.1.9",
     "@types/styled-components": "5.1.0",
     "framer-motion": "^1.11.1",
-    "immer": "6.0.9",
+    "immer": "8.0.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-hamburger-menu": "^1.2.1",
